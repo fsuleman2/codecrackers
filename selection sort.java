@@ -1,5 +1,5 @@
 /******************************************************************************
-Efficient way to sort a given list of numbers using Selection Sort
+Efficient way to sort a given list of numbers using Selection Sortd
 
 *******************************************************************************/
 import java.util.*;
